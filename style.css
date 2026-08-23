@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(178, 189, 148);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+  color: darkgreen;
+  text-decoration: none;
+}
+
+a:hover {
+  color: darkred;
+}
+img {
+  border: 6.7px rgb(0, 0, 0) solid;
+  border-radius: 7px;
+}
+table {
+  border-collapse: collapse;
+}
+tr:nth-child(even) {
+  background-color: brown;
+}
+td,
+th {
+  border: 1.9px rgb(0, 0, 0) solid;
+}
+ul {
+  list-style-type: none;
+}
